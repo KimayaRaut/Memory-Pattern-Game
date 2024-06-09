@@ -17,3 +17,6 @@ Memory Pattern Game is a simple web-based game built with HTML, CSS, and JavaScr
 - **CSS**: Styling of the game elements
 - **JavaScript**: Game logic and interactions
 
+## Programmer's Note
+
+The real motive behind creating this project is to learn the basics of HTML and JavaScript. What better way to learn than to implement these skills in a mini-project? This small project helped me better understand key concepts of JavaScript and web development.
